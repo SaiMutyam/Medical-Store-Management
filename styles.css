@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+    body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;
+      background-image: url('https://img.freepik.com/free-photo/hand-holds-medicine-capsules-icon-sign-symbol-blue-background-3d-illustration-cartoon-healthcare-medical-concept_56104-1645.jpg?size=626&ext=jpg&ga=GA1.2.1477718873.1656780564');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+
+
+
+  }
+  .btn-block{
+    color: white;
+    background-color:rgb(18, 6, 97);
+  }
+
+
